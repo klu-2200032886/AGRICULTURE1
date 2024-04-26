@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/klu-2200032886/AGRICULTURE1/static/css/main.ccfbac45.css",
+    "main.js": "/klu-2200032886/AGRICULTURE1/static/js/main.9b0cc8ae.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/klu-2200032886/AGRICULTURE1/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo1.png": "/klu-2200032886/AGRICULTURE1/static/media/logo1.f16b981da52b8deecad6.png",
+    "static/media/fertilizer1.jpg": "/klu-2200032886/AGRICULTURE1/static/media/fertilizer1.c6dbc4a04a733e081dfe.jpg",
+    "static/media/logo5.jpg": "/klu-2200032886/AGRICULTURE1/static/media/logo5.9f8d2cda24b7b7554c96.jpg",
+    "static/media/logo.png": "/klu-2200032886/AGRICULTURE1/static/media/logo.637270d716f883e80296.png",
+    "static/media/logo3.png": "/klu-2200032886/AGRICULTURE1/static/media/logo3.0f4a30c7db5a74e1915c.png",
+    "static/media/fertilizer5.jpg": "/klu-2200032886/AGRICULTURE1/static/media/fertilizer5.d53eca1ad75379dde272.jpg",
+    "static/media/logo2.jpeg": "/klu-2200032886/AGRICULTURE1/static/media/logo2.ab55f961abce569dccc0.jpeg",
+    "static/media/scanner.jpg": "/klu-2200032886/AGRICULTURE1/static/media/scanner.8cdbe8d3370e9b93c4e5.jpg",
+    "static/media/fertilizer4.jpg": "/klu-2200032886/AGRICULTURE1/static/media/fertilizer4.4bd7567a4e6035223824.jpg",
+    "static/media/fertilizer2.jpg": "/klu-2200032886/AGRICULTURE1/static/media/fertilizer2.da60db69b32e4aae59bf.jpg",
+    "index.html": "/klu-2200032886/AGRICULTURE1/index.html",
+    "main.ccfbac45.css.map": "/klu-2200032886/AGRICULTURE1/static/css/main.ccfbac45.css.map",
+    "main.9b0cc8ae.js.map": "/klu-2200032886/AGRICULTURE1/static/js/main.9b0cc8ae.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/klu-2200032886/AGRICULTURE1/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfbac45.css",
+    "static/js/main.9b0cc8ae.js"
+  ]
+}
