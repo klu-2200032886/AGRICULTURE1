@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #a6a9ae;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #d1d9e8;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(9, 9, 9);
+}
+
+.App-Login {
+  background-color: #79480f;
+  padding: 100px;
+  border-radius: 30px;
+  width: 0%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(13, 13, 13);
+}
+
+
+.fertilizer-list {
+  display: flex; /* Display items in a row */
+  flex-wrap: wrap; /* Allow items to wrap to the next row */
+  justify-content: space-around; /* Align items with space around */
+  align-content: space-between; /* Align rows with space between */
+}
+
+.fertilizer-item {
+  display: flex; /* Display children elements in a row */
+  flex-direction: column; /* Align children in a column */
+  align-items: center; /* Center-align children horizontally */
+  margin: 10px; /* Add margin around each item */
+  width: calc(50% - 20px); /* Set width to half minus margin */
+  max-width: 300px; /* Limit maximum width */
+}
+
+.fertilizer-image {
+  width: 100px; /* Adjust image width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 10px; /* Add margin below the image */
+}
+
+.fertilizer-details {
+  text-align: center; /* Align text in the center */
+}
+
+.login-container {
+  display: flex;
+  justify-content: space-around; 
+}
+
+.login-box {
+  flex: 1;
+  text-align: center;
+  margin: 0 10px; 
+}
